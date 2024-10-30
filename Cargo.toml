@@ -1,0 +1,10 @@
+[package]
+name = "summit"
+version = "0.1.0"
+edition = "2021"
+description = "Placeholder"
+license = "MIT"
+authors = ["Shaun Culver <shaun@culver.ch>"]
+repository = "https://github.com/shaun-culver/summit"
+
+[dependencies]
