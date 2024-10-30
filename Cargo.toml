@@ -8,3 +8,6 @@ authors = ["Shaun Culver <shaun@culver.ch>"]
 repository = "https://github.com/shaun-culver/summit"
 
 [dependencies]
+serde = { version = "1.0.214", features = ["derive"] }
+surrealdb = "2.0.4"
+tokio = { version = "1.41.0", features = ["macros", "rt-multi-thread"] }
